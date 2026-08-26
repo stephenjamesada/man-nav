@@ -18,6 +18,32 @@ With `man-nav`, there's no need to memorize every section, and every entry in it
 ./man-nav.sh
 ```
 
-## Demonstration
+### Output
 
-![Demonstration Video](https://github.com/user-attachments/assets/895a9f04-f26c-4aab-94fd-6a2d0feb3fa8)
+#### Title
+
+```
+======= Man Navigator =======
+        1. Browse Sections
+        2. Help
+        3. Quit
+> 
+```
+
+> Help = `man man`
+
+#### Browse Sections
+
+```
+======= Choose a section (1-9) =======
+	    1. User commands & executables
+	    2. Syscalls
+	    3. Library calls
+	    4. Device files, special files
+	    5. File formats & conventions
+	    6. Games
+	    7. Misc.
+	    8. System administration commands
+	    9. Non-standard kernel routines
+> 
+```
