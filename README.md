@@ -20,4 +20,4 @@ With `man-nav`, there's no need to memorize every section, and every entry in it
 
 ## Demonstration
 
-<img src="assets/man-nav_demo.gif" alt="Man Navigator demonstration GIF" width="800">
+![Man Navigator demo video](assets/edited-man-nav-demo.mp4)
