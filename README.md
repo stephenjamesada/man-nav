@@ -20,4 +20,4 @@ With `man-nav`, there's no need to memorize every section, and every entry in it
 
 ## Demonstration
 
-![Man Navigator demo video](assets/edited-man-nav-demo.mp4)
+<video src="assets/edited-man-nav-demo.mp4"></video>
