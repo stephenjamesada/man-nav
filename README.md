@@ -11,3 +11,13 @@ With `man-nav`, there's no need to memorize every section, and every entry in it
 
 - `fdfind`
 - `fzf`
+
+## Usage
+
+```
+./man-nav.sh
+```
+
+## Demonstration
+
+![Man Navigator demonstration GIF](assets/man-nav_demo.gif)
