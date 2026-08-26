@@ -1,5 +1,3 @@
-# TODO: Add new option => "Choose Script Pager"
-
 #!/usr/bin/env bash
 
 set -o pipefail
