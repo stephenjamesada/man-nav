@@ -48,7 +48,7 @@ browse() {
         printf "There are no sections less than 1."
         return
     else
-        page=$(fd -t f . "/usr/share/man/man$section" | sed "s|.*/||; s/\.$section.*//" | fzf \
+        page=$(fdfind -t f . "/usr/share/man/man$section" | sed "s|.*/||; s/\.$section.*//" | fzf \
             --preview='man {} | col -b' \
             --preview-window='right:70%' \
             --header="Section $section" \
