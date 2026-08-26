@@ -20,4 +20,4 @@ With `man-nav`, there's no need to memorize every section, and every entry in it
 
 ## Demonstration
 
-<video src="assets/edited-man-nav-demo.mp4"></video>
+![Demonstration Video](https://github.com/user-attachments/assets/895a9f04-f26c-4aab-94fd-6a2d0feb3fa8)
