@@ -12,9 +12,12 @@ With `man-nav`, there's no need to memorize every section, and every entry in it
 - `fdfind`
 - `fzf`
 
-## Usage
+## Setup & Usage
 
 ```
+git clone https://github.com/stephenjamesada/man-nav.git
+cd man-nav
+chmod +x ./man-nav.sh
 ./man-nav.sh
 ```
 
